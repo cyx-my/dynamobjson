@@ -1,0 +1,1123 @@
+{
+    "state_str": "08b900/ca5e53",
+    "state_str_content_free": "dd1dd1/21ec76",
+    "foreground_activity": "com.clowder.sh/me.pinxter.core_clowder.kotlin.other.ui.ActivitySignUpOne",
+    "activity_stack": [
+        "com.clowder.sh/me.pinxter.core_clowder.kotlin.other.ui.ActivitySignUpOne",
+        "com.clowder.sh/me.pinxter.core_clowder.kotlin.other.ui.ActivityWelcome"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                25,
+                26
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "f37a41c79a7dd26c74f63e486367de6f",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "62e4300ac082834d56f60dd4840643b2",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "cc39dadd17b34674f4976a291a28fe6d",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.clowder.sh:id/action_bar_root",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.clowder.sh:id/action_bar_root[text]None[enabled,,]",
+            "view_str": "14e3f1714559c5000ac3b82b2255067d",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.clowder.sh:id/action_bar_root"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "a5114a5091b7cbb02914770e987f949d",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 5,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6,
+                11,
+                16,
+                22,
+                23
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "1080*1704",
+            "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+            "view_str": "aa7cb76e89b78c7dfd29027834029524",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                7
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    240
+                ]
+            ],
+            "resource_id": "com.clowder.sh:id/include",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "1080*168",
+            "signature": "[class]android.view.ViewGroup[resource_id]com.clowder.sh:id/include[text]None[enabled,,]",
+            "view_str": "ef684f41a804ccb685a253bb74eb2ced",
+            "bound_box": "0,72,1080,240",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.clowder.sh:id/include"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                8,
+                9
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    240
+                ]
+            ],
+            "resource_id": "com.clowder.sh:id/toolbar",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 6,
+            "temp_id": 7,
+            "size": "1080*168",
+            "signature": "[class]android.view.ViewGroup[resource_id]com.clowder.sh:id/toolbar[text]None[enabled,,]",
+            "view_str": "85c3b65f82863c30a593fd2dcd128eed",
+            "bound_box": "0,72,1080,240",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.clowder.sh:id/toolbar"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    168,
+                    240
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageButton",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 8,
+            "size": "168*168",
+            "signature": "[class]android.widget.ImageButton[resource_id]None[text]None[enabled,,]",
+            "view_str": "8ad1e8c8f1f518f98c18ef64863a3162",
+            "bound_box": "0,72,168,240",
+            "content_free_signature": "[class]android.widget.ImageButton[resource_id]None"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    216,
+                    72
+                ],
+                [
+                    1080,
+                    240
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 9,
+            "size": "864*168",
+            "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+            "view_str": "43ca48663a62777f04538ee463648ba2",
+            "bound_box": "216,72,1080,240",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    216,
+                    116
+                ],
+                [
+                    912,
+                    197
+                ]
+            ],
+            "resource_id": "com.clowder.sh:id/toolbarTitle",
+            "checked": false,
+            "text": "Sign Up",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "696*81",
+            "signature": "[class]android.widget.TextView[resource_id]com.clowder.sh:id/toolbarTitle[text]Sign Up[enabled,,]",
+            "view_str": "10cb09627a3749f0d987754d8d31e440",
+            "bound_box": "216,116,912,197",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.clowder.sh:id/toolbarTitle",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<p bound_box=216,116,912,197>Sign Up</p>"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                12,
+                14
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    306
+                ],
+                [
+                    1032,
+                    540
+                ]
+            ],
+            "resource_id": "com.clowder.sh:id/inputLayoutUserName",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 11,
+            "size": "984*234",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.clowder.sh:id/inputLayoutUserName[text]None[enabled,,]",
+            "view_str": "4a920d6e95b46b7692bbf79d5afe83e1",
+            "bound_box": "48,306,1032,540",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.clowder.sh:id/inputLayoutUserName"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    322
+                ],
+                [
+                    1032,
+                    491
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 12,
+            "size": "984*169",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "d927a4c988feb585d319ef4787dcdc93",
+            "bound_box": "48,322,1032,491",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": true,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    322
+                ],
+                [
+                    1032,
+                    491
+                ]
+            ],
+            "resource_id": "com.clowder.sh:id/etUserName",
+            "checked": false,
+            "text": "Email",
+            "class": "android.widget.EditText",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 12,
+            "temp_id": 13,
+            "size": "984*169",
+            "signature": "[class]android.widget.EditText[resource_id]com.clowder.sh:id/etUserName[text]Email[enabled,,]",
+            "view_str": "b0191ec77755730be091a387f66265f0",
+            "bound_box": "48,322,1032,491",
+            "content_free_signature": "[class]android.widget.EditText[resource_id]com.clowder.sh:id/etUserName",
+            "allowed_actions": [
+                "touch",
+                "set_text",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<input bound_box=48,322,1032,491>Email</input>"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                15
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    491
+                ],
+                [
+                    1032,
+                    540
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 14,
+            "size": "984*49",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "ea92cb17182154a03209a306716d3215",
+            "bound_box": "48,491,1032,540",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    84,
+                    491
+                ],
+                [
+                    84,
+                    540
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 15,
+            "size": "0*49",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "2ef840af4f4a996abc43b4dec4fbf4f6",
+            "bound_box": "84,491,84,540",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                17,
+                20
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    564
+                ],
+                [
+                    1032,
+                    798
+                ]
+            ],
+            "resource_id": "com.clowder.sh:id/inputLayoutPassword",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 16,
+            "size": "984*234",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.clowder.sh:id/inputLayoutPassword[text]None[enabled,,]",
+            "view_str": "ed2b645ea828fa72bffd4207665e8140",
+            "bound_box": "48,564,1032,798",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.clowder.sh:id/inputLayoutPassword"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                18,
+                19
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    580
+                ],
+                [
+                    1032,
+                    749
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 17,
+            "size": "984*169",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "8d59eac312b6d2d10309c729187af562",
+            "bound_box": "48,580,1032,749",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": true,
+            "clickable": true,
+            "is_password": true,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": true,
+            "bounds": [
+                [
+                    48,
+                    580
+                ],
+                [
+                    1032,
+                    749
+                ]
+            ],
+            "resource_id": "com.clowder.sh:id/etPassword",
+            "checked": false,
+            "text": "dummy_user_input",
+            "class": "android.widget.EditText",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 17,
+            "temp_id": 18,
+            "size": "984*169",
+            "signature": "[class]android.widget.EditText[resource_id]com.clowder.sh:id/etPassword[text]dummy_user_input[enabled,,]",
+            "view_str": "5287d6b5537f6796d4d916545b841300",
+            "bound_box": "48,580,1032,749",
+            "content_free_signature": "[class]android.widget.EditText[resource_id]com.clowder.sh:id/etPassword",
+            "allowed_actions": [
+                "touch",
+                "set_text",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<input bound_box=48,580,1032,749>dummy_user_input</input>"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": true,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "description",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    888,
+                    580
+                ],
+                [
+                    1032,
+                    748
+                ]
+            ],
+            "resource_id": "com.clowder.sh:id/text_input_password_toggle",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageButton",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 17,
+            "temp_id": 19,
+            "size": "144*168",
+            "signature": "[class]android.widget.ImageButton[resource_id]com.clowder.sh:id/text_input_password_toggle[text]None[enabled,,]",
+            "view_str": "98e5b2c5d0ccec05969de8d14e1bae8a",
+            "bound_box": "888,580,1032,748",
+            "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.clowder.sh:id/text_input_password_toggle",
+            "allowed_actions": [
+                "select",
+                "unselect"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<checkbox alt='description' bound_box=888,580,1032,748></checkbox>"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                21
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    749
+                ],
+                [
+                    1032,
+                    798
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 20,
+            "size": "984*49",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "734cd0916ef974d5d66bbf07c3b16758",
+            "bound_box": "48,749,1032,798",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    84,
+                    749
+                ],
+                [
+                    84,
+                    798
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 20,
+            "temp_id": 21,
+            "size": "0*49",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "346a2e4f46ddb89b371047b92e2f5c69",
+            "bound_box": "84,749,84,798",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    798
+                ],
+                [
+                    1032,
+                    915
+                ]
+            ],
+            "resource_id": "com.clowder.sh:id/tvAgreeTerms",
+            "checked": false,
+            "text": "By clicking Sign Up you agree to SH's Privacy Policy and Terms of Use",
+            "class": "android.widget.TextView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 5,
+            "temp_id": 22,
+            "size": "984*117",
+            "signature": "[class]android.widget.TextView[resource_id]com.clowder.sh:id/tvAgreeTerms[text]None[enabled,,]",
+            "view_str": "1cae7e76ba4a67ce353fedac2bc72061",
+            "bound_box": "48,798,1032,915",
+            "content_free_signature": "[class]android.widget.TextView[resource_id]com.clowder.sh:id/tvAgreeTerms",
+            "allowed_actions": [
+                "touch",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<button bound_box=48,798,1032,915>By clicking Sign Up you agree to SH's Privacy Poli</button>"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                24
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    945
+                ],
+                [
+                    1032,
+                    1089
+                ]
+            ],
+            "resource_id": "com.clowder.sh:id/btnSubmit",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 23,
+            "size": "984*144",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.clowder.sh:id/btnSubmit[text]None[enabled,,]",
+            "view_str": "8bd06957245cd32afa192c7ee6d412ec",
+            "bound_box": "48,945,1032,1089",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.clowder.sh:id/btnSubmit"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    48,
+                    945
+                ],
+                [
+                    1032,
+                    1089
+                ]
+            ],
+            "resource_id": "com.clowder.sh:id/btnMain",
+            "checked": false,
+            "text": "SIGN UP",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 23,
+            "temp_id": 24,
+            "size": "984*144",
+            "signature": "[class]android.widget.Button[resource_id]com.clowder.sh:id/btnMain[text]SIGN UP[enabled,,]",
+            "view_str": "198723530b0d80543aed622c49061dca",
+            "bound_box": "48,945,1032,1089",
+            "content_free_signature": "[class]android.widget.Button[resource_id]com.clowder.sh:id/btnMain",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "5",
+            "desc": "<button bound_box=48,945,1032,1089>SIGN UP</button>"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "android:id/statusBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 25,
+            "size": "1080*72",
+            "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+            "view_str": "29107035476e5b28cca36738de62c0f1",
+            "bound_box": "0,0,1080,72",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+        },
+        {
+            "package": "com.clowder.sh",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 26,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "29fc00085ef91e4276931e80ebc2d483",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}

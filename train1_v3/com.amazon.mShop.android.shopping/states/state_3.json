@@ -1,0 +1,2224 @@
+{
+    "state_str": "cf1ede/cf1ede",
+    "state_str_content_free": "9f80bb/9f80bb",
+    "foreground_activity": "com.aesthetic.naturescape.launcher/.Launcher",
+    "activity_stack": [
+        "com.aesthetic.naturescape.launcher/.Launcher"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                55
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "0e91b706f8f4f579a4e350e75d8adbd0",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "bca237a54b35520fbd7a473dc9e5e8cf",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "05b84e4cb0fa6097f8375ff82503d1d4",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.aesthetic.naturescape.launcher:id/action_bar_root",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.aesthetic.naturescape.launcher:id/action_bar_root[text]None[enabled,,]",
+            "view_str": "4702ce1222ce12712a83304ebd896d71",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.aesthetic.naturescape.launcher:id/action_bar_root"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                5
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "014d7e5caaaf91caab0d382cd47552c6",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                6,
+                7
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "com.aesthetic.naturescape.launcher:id/launcherBase",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 4,
+            "temp_id": 5,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]com.aesthetic.naturescape.launcher:id/launcherBase[text]None[enabled,,]",
+            "view_str": "76ac5942b000e27311114b82c590000c",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.aesthetic.naturescape.launcher:id/launcherBase"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 6,
+            "size": "1080*1920",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "babc32d1326fae61e3a55d20c0d027d3",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                8,
+                46
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "androidx.viewpager.widget.ViewPager",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 5,
+            "temp_id": 7,
+            "size": "1080*1920",
+            "signature": "[class]androidx.viewpager.widget.ViewPager[resource_id]None[text]None[enabled,,]",
+            "view_str": "a0d5e4f1d691044b08765f2b336787b5",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]androidx.viewpager.widget.ViewPager[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<scrollbar bound_box=0,0,1080,1920></scrollbar>"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 5,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                9,
+                10,
+                11,
+                44,
+                45
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 8,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "f287db9f843a5438153ae374e38b6148",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1758
+                ],
+                [
+                    1080,
+                    1758
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 9,
+            "size": "1080*0",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "4c6487119cf6f5a5fadb8a91e522e955",
+            "bound_box": "0,1758,1080,1758",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    0
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 8,
+            "temp_id": 10,
+            "size": "1080*0",
+            "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+            "view_str": "d911cd5a4ceff93db6460a56267b2981",
+            "bound_box": "0,0,1080,0",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                12,
+                28
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "androidx.viewpager.widget.ViewPager",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 11,
+            "size": "1080*1704",
+            "signature": "[class]androidx.viewpager.widget.ViewPager[resource_id]None[text]None[enabled,,]",
+            "view_str": "b89178f42a314f979976667471505772",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]androidx.viewpager.widget.ViewPager[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<scrollbar bound_box=0,72,1080,1776></scrollbar>"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 15,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 11,
+            "temp_id": 12,
+            "size": "1080*1704",
+            "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+            "view_str": "cc0ef8634e83d9ebc2498779c76f13e5",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    10,
+                    785
+                ],
+                [
+                    540,
+                    944
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 12,
+            "temp_id": 13,
+            "size": "530*159",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "10,785,540,944",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    752,
+                    785
+                ],
+                [
+                    1070,
+                    891
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 12,
+            "temp_id": 14,
+            "size": "318*106",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "752,785,1070,891",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    10,
+                    944
+                ],
+                [
+                    540,
+                    1103
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 12,
+            "temp_id": 15,
+            "size": "530*159",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "10,944,540,1103",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    752,
+                    944
+                ],
+                [
+                    1070,
+                    1050
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 12,
+            "temp_id": 16,
+            "size": "318*106",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "752,944,1070,1050",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    10,
+                    1103
+                ],
+                [
+                    222,
+                    1315
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 12,
+            "temp_id": 17,
+            "size": "212*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "10,1103,222,1315",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    222,
+                    1103
+                ],
+                [
+                    434,
+                    1315
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 12,
+            "temp_id": 18,
+            "size": "212*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "222,1103,434,1315",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    434,
+                    1103
+                ],
+                [
+                    646,
+                    1315
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 12,
+            "temp_id": 19,
+            "size": "212*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "434,1103,646,1315",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    646,
+                    1103
+                ],
+                [
+                    858,
+                    1315
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 12,
+            "temp_id": 20,
+            "size": "212*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "646,1103,858,1315",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    858,
+                    1103
+                ],
+                [
+                    1070,
+                    1315
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 12,
+            "temp_id": 21,
+            "size": "212*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "858,1103,1070,1315",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    10,
+                    1315
+                ],
+                [
+                    222,
+                    1527
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 12,
+            "temp_id": 22,
+            "size": "212*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "10,1315,222,1527",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    222,
+                    1315
+                ],
+                [
+                    434,
+                    1527
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 12,
+            "temp_id": 23,
+            "size": "212*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "222,1315,434,1527",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    434,
+                    1315
+                ],
+                [
+                    646,
+                    1527
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 12,
+            "temp_id": 24,
+            "size": "212*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "434,1315,646,1527",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    646,
+                    1315
+                ],
+                [
+                    858,
+                    1527
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 12,
+            "temp_id": 25,
+            "size": "212*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "646,1315,858,1527",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    858,
+                    1315
+                ],
+                [
+                    1070,
+                    1527
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 12,
+            "temp_id": 26,
+            "size": "212*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "858,1315,1070,1527",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    10,
+                    1527
+                ],
+                [
+                    1070,
+                    1739
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 12,
+            "temp_id": 27,
+            "size": "1060*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "10,1527,1070,1739",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 15,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 11,
+            "temp_id": 28,
+            "size": "0*1704",
+            "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+            "view_str": "cc0ef8634e83d9ebc2498779c76f13e5",
+            "bound_box": "1080,72,1080,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    202
+                ],
+                [
+                    1080,
+                    414
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 28,
+            "temp_id": 29,
+            "size": "0*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "1080,202,1080,414",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    202
+                ],
+                [
+                    1080,
+                    414
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 28,
+            "temp_id": 30,
+            "size": "0*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "1080,202,1080,414",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    202
+                ],
+                [
+                    1080,
+                    414
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 28,
+            "temp_id": 31,
+            "size": "0*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "1080,202,1080,414",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    202
+                ],
+                [
+                    1080,
+                    414
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 28,
+            "temp_id": 32,
+            "size": "0*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "1080,202,1080,414",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    202
+                ],
+                [
+                    1080,
+                    414
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 28,
+            "temp_id": 33,
+            "size": "0*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "1080,202,1080,414",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    414
+                ],
+                [
+                    1080,
+                    626
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 28,
+            "temp_id": 34,
+            "size": "0*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "1080,414,1080,626",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    414
+                ],
+                [
+                    1080,
+                    626
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 28,
+            "temp_id": 35,
+            "size": "0*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "1080,414,1080,626",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    414
+                ],
+                [
+                    1080,
+                    626
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 28,
+            "temp_id": 36,
+            "size": "0*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "1080,414,1080,626",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    414
+                ],
+                [
+                    1080,
+                    626
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 28,
+            "temp_id": 37,
+            "size": "0*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "1080,414,1080,626",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    414
+                ],
+                [
+                    1080,
+                    626
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 28,
+            "temp_id": 38,
+            "size": "0*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "1080,414,1080,626",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    626
+                ],
+                [
+                    1080,
+                    838
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 28,
+            "temp_id": 39,
+            "size": "0*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "1080,626,1080,838",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    626
+                ],
+                [
+                    1080,
+                    838
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 28,
+            "temp_id": 40,
+            "size": "0*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "1080,626,1080,838",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    626
+                ],
+                [
+                    1080,
+                    838
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 28,
+            "temp_id": 41,
+            "size": "0*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "1080,626,1080,838",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    626
+                ],
+                [
+                    1080,
+                    838
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 28,
+            "temp_id": 42,
+            "size": "0*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "1080,626,1080,838",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    626
+                ],
+                [
+                    1080,
+                    838
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 28,
+            "temp_id": 43,
+            "size": "0*212",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "def52c86539eb1732cc55e6d4b86e517",
+            "bound_box": "1080,626,1080,838",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    75,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 44,
+            "size": "75*1704",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "4c6487119cf6f5a5fadb8a91e522e955",
+            "bound_box": "0,72,75,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1016,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 8,
+            "temp_id": 45,
+            "size": "64*1704",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "4c6487119cf6f5a5fadb8a91e522e955",
+            "bound_box": "1016,72,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                47
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 7,
+            "temp_id": 46,
+            "size": "0*1920",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "81ac7ca8a1895b5d77f4d93200ae9440",
+            "bound_box": "1080,0,1080,1920",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                48,
+                54
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 46,
+            "temp_id": 47,
+            "size": "0*1920",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "4540728f3dd832e5648e4e072780a3b8",
+            "bound_box": "1080,0,1080,1920",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                49,
+                53
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    187
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 47,
+            "temp_id": 48,
+            "size": "0*1589",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "0db605a38ea3b283f0db37393d0f7290",
+            "bound_box": "1080,187,1080,1776",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                50,
+                51,
+                52
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    187
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "androidx.recyclerview.widget.RecyclerView",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 48,
+            "temp_id": 49,
+            "size": "0*1589",
+            "signature": "[class]androidx.recyclerview.widget.RecyclerView[resource_id]None[text]None[enabled,,]",
+            "view_str": "415fd156f7e05748e2bdc1f32fcaec6f",
+            "bound_box": "1080,187,1080,1776",
+            "content_free_signature": "[class]androidx.recyclerview.widget.RecyclerView[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    187
+                ],
+                [
+                    1080,
+                    452
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 49,
+            "temp_id": 50,
+            "size": "0*265",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "5d0d02ac1c82cd9c3a6425261714e2ea",
+            "bound_box": "1080,187,1080,452",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    452
+                ],
+                [
+                    1080,
+                    1247
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 49,
+            "temp_id": 51,
+            "size": "0*795",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "5d0d02ac1c82cd9c3a6425261714e2ea",
+            "bound_box": "1080,452,1080,1247",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    1247
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 49,
+            "temp_id": 52,
+            "size": "0*529",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "5d0d02ac1c82cd9c3a6425261714e2ea",
+            "bound_box": "1080,1247,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1816,
+                    187
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 48,
+            "temp_id": 53,
+            "size": "-736*1589",
+            "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+            "view_str": "af67e9075af2e08a3fad67e910960b6a",
+            "bound_box": "1816,187,1080,1776",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    1080,
+                    72
+                ],
+                [
+                    1080,
+                    187
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 47,
+            "temp_id": 54,
+            "size": "0*115",
+            "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+            "view_str": "deaeadb0c4f07d589acf0f0000e9dad8",
+            "bound_box": "1080,72,1080,187",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+        },
+        {
+            "package": "com.aesthetic.naturescape.launcher",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 55,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "4522f484a31a8a31c483c9c8a2bd5dee",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}

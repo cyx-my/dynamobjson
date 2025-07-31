@@ -1,0 +1,3831 @@
+{
+    "state_str": "cf1ede/1ed071",
+    "state_str_content_free": "9f80bb/5b8bff",
+    "foreground_activity": "com.amazon.mShop.android.shopping/com.amazon.mShop.navigation.MainActivity",
+    "activity_stack": [
+        "com.amazon.mShop.android.shopping/com.amazon.mShop.navigation.MainActivity"
+    ],
+    "width": 2340,
+    "height": 1080,
+    "views": [
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                1,
+                92
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": -1,
+            "temp_id": 0,
+            "size": "1080*1920",
+            "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "493e1df0890f098880934a80698b3c8d",
+            "bound_box": "0,0,1080,1920",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                2
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 1,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "8e2a9ddaaa346818d6c0c5f5d89324bd",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                3
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "android:id/content",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 1,
+            "temp_id": 2,
+            "size": "1080*1776",
+            "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+            "view_str": "95d4ee7ab43d63b0b64f06fa07104a02",
+            "bound_box": "0,0,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 9,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                88,
+                90,
+                91
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/root_container",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 2,
+            "temp_id": 3,
+            "size": "1080*1704",
+            "signature": "[class]android.view.ViewGroup[resource_id]com.amazon.mShop.android.shopping:id/root_container[text]None[enabled,,]",
+            "view_str": "d0150befbdbf2cfcfa1ba39fa5805359",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.amazon.mShop.android.shopping:id/root_container"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/subnav_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 4,
+            "size": "1080*0",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/subnav_container[text]None[enabled,,]",
+            "view_str": "32b3b1f9aae0061a848159401290e4a4",
+            "bound_box": "0,72,1080,72",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/subnav_container"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    72
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/top_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 5,
+            "size": "1080*0",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/top_container[text]None[enabled,,]",
+            "view_str": "d6572816d715cbb26ccb1361aad3302e",
+            "bound_box": "0,72,1080,72",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/top_container"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/action_bar_container",
+            "checked": false,
+            "text": null,
+            "class": "android.view.ViewGroup",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 6,
+            "size": "1080*1704",
+            "signature": "[class]android.view.ViewGroup[resource_id]com.amazon.mShop.android.shopping:id/action_bar_container[text]None[enabled,,]",
+            "view_str": "67f926c9fc95dd9217ed966eb041a7f0",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.amazon.mShop.android.shopping:id/action_bar_container"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/appcx_bottom_sheet_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 7,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]com.amazon.mShop.android.shopping:id/appcx_bottom_sheet_container[text]None[enabled,,]",
+            "view_str": "d325134fc0928beaf80f7054f38090cf",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.amazon.mShop.android.shopping:id/appcx_bottom_sheet_container"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/overlay_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 8,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]com.amazon.mShop.android.shopping:id/overlay_container[text]None[enabled,,]",
+            "view_str": "b32eb391159f9654de57ab01388fa054",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.amazon.mShop.android.shopping:id/overlay_container"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                10
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/fragment_switch_view_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 9,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.FrameLayout[resource_id]com.amazon.mShop.android.shopping:id/fragment_switch_view_container[text]None[enabled,,]",
+            "view_str": "4ff1fd3192702a79ab3a9027c9fd52a2",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.amazon.mShop.android.shopping:id/fragment_switch_view_container"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                11,
+                20
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/webview_search_entry",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 9,
+            "temp_id": 10,
+            "size": "1080*1704",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/webview_search_entry[text]None[enabled,,]",
+            "view_str": "ef98a9c5072c34bd4abaf4df0b69d36a",
+            "bound_box": "0,72,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/webview_search_entry"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                12,
+                13
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    72
+                ],
+                [
+                    1080,
+                    228
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/rs_search_entry_bar",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 11,
+            "size": "1080*156",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/rs_search_entry_bar[text]None[enabled,,]",
+            "view_str": "c6aefea9d47653ad6cb192dffc39b1d5",
+            "bound_box": "0,72,1080,228",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/rs_search_entry_bar"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "Back",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    84
+                ],
+                [
+                    132,
+                    216
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/chrome_action_bar_back_icon_image",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 12,
+            "size": "132*132",
+            "signature": "[class]android.widget.ImageView[resource_id]com.amazon.mShop.android.shopping:id/chrome_action_bar_back_icon_image[text]None[enabled,,]",
+            "view_str": "ff103155da8e05b5d6f1615cd33be70a",
+            "bound_box": "0,84,132,216",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.amazon.mShop.android.shopping:id/chrome_action_bar_back_icon_image",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "0",
+            "desc": "<button alt='Back' bound_box=0,84,132,216></button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                14,
+                16
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    132,
+                    81
+                ],
+                [
+                    1056,
+                    228
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/rs_search_plate",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 11,
+            "temp_id": 13,
+            "size": "924*147",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/rs_search_plate[text]None[enabled,,]",
+            "view_str": "63c3f88852994f39eeb95b8e15a8ea34",
+            "bound_box": "132,81,1056,228",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/rs_search_plate"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": "Search",
+            "children": [
+                15
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    162,
+                    114
+                ],
+                [
+                    234,
+                    186
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/chrome_action_bar_search_disabled",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 13,
+            "temp_id": 14,
+            "size": "72*72",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/chrome_action_bar_search_disabled[text]None[enabled,,]",
+            "view_str": "1c97eedf356c3ad3da28a52fb68d254a",
+            "bound_box": "162,114,234,186",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/chrome_action_bar_search_disabled",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "1",
+            "desc": "<button alt='Search' bound_box=162,114,234,186></button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    162,
+                    114
+                ],
+                [
+                    234,
+                    186
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/chrome_action_bar_search_icon",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 14,
+            "temp_id": 15,
+            "size": "72*72",
+            "signature": "[class]android.widget.ImageView[resource_id]com.amazon.mShop.android.shopping:id/chrome_action_bar_search_icon[text]None[enabled,,]",
+            "view_str": "97f92de30cb167a8b13a424cf6f3e0ef",
+            "bound_box": "162,114,234,186",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.amazon.mShop.android.shopping:id/chrome_action_bar_search_icon"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                17,
+                18
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    258,
+                    81
+                ],
+                [
+                    1047,
+                    225
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/search_edit_frame",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 13,
+            "temp_id": 16,
+            "size": "789*144",
+            "signature": "[class]android.widget.FrameLayout[resource_id]com.amazon.mShop.android.shopping:id/search_edit_frame[text]None[enabled,,]",
+            "view_str": "b28eac16f56f522faad7914dd9c3d13c",
+            "bound_box": "258,81,1047,225",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.amazon.mShop.android.shopping:id/search_edit_frame"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": true,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": true,
+            "bounds": [
+                [
+                    258,
+                    81
+                ],
+                [
+                    1047,
+                    225
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/rs_search_src_text",
+            "checked": false,
+            "text": "Search Amazon",
+            "class": "android.widget.EditText",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": true,
+            "parent": 16,
+            "temp_id": 17,
+            "size": "789*144",
+            "signature": "[class]android.widget.EditText[resource_id]com.amazon.mShop.android.shopping:id/rs_search_src_text[text]Search Amazon[enabled,,]",
+            "view_str": "e4fd1fa029839f8581489e37223e42d6",
+            "bound_box": "258,81,1047,225",
+            "content_free_signature": "[class]android.widget.EditText[resource_id]com.amazon.mShop.android.shopping:id/rs_search_src_text",
+            "allowed_actions": [
+                "touch",
+                "set_text",
+                "long_touch"
+            ],
+            "status": [],
+            "local_id": "2",
+            "desc": "<input bound_box=258,81,1047,225>Search Amazon</input>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                19
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    933,
+                    121
+                ],
+                [
+                    1047,
+                    178
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/ingress_buttons",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 16,
+            "temp_id": 18,
+            "size": "114*57",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/ingress_buttons[text]None[enabled,,]",
+            "view_str": "cd4e132d2cd9d164762b4cd42c3c72bd",
+            "bound_box": "933,121,1047,178",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/ingress_buttons"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": "scan it",
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    933,
+                    121
+                ],
+                [
+                    1047,
+                    175
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/search_right_cam_img",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.ImageView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 18,
+            "temp_id": 19,
+            "size": "114*54",
+            "signature": "[class]android.widget.ImageView[resource_id]com.amazon.mShop.android.shopping:id/search_right_cam_img[text]None[enabled,,]",
+            "view_str": "1d97c0d031c848633cefa23c204ad534",
+            "bound_box": "933,121,1047,175",
+            "content_free_signature": "[class]android.widget.ImageView[resource_id]com.amazon.mShop.android.shopping:id/search_right_cam_img",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "3",
+            "desc": "<button alt='scan it' bound_box=933,121,1047,175></button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                21
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    228
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/search_suggestions_frame_layout",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 10,
+            "temp_id": 20,
+            "size": "1080*1548",
+            "signature": "[class]android.widget.FrameLayout[resource_id]com.amazon.mShop.android.shopping:id/search_suggestions_frame_layout[text]None[enabled,,]",
+            "view_str": "c0fb94d2c53a61698ba932b9077964ae",
+            "bound_box": "0,228,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.amazon.mShop.android.shopping:id/search_suggestions_frame_layout"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                22
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    228
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/iss_autocomplete_ux_container_outer",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 20,
+            "temp_id": 21,
+            "size": "1080*1548",
+            "signature": "[class]android.widget.FrameLayout[resource_id]com.amazon.mShop.android.shopping:id/iss_autocomplete_ux_container_outer[text]None[enabled,,]",
+            "view_str": "1a2551c43f2ba25625b0444e22c88f88",
+            "bound_box": "0,228,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.amazon.mShop.android.shopping:id/iss_autocomplete_ux_container_outer"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                23
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    228
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/iss_autocomplete_ux_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.FrameLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 21,
+            "temp_id": 22,
+            "size": "1080*1548",
+            "signature": "[class]android.widget.FrameLayout[resource_id]com.amazon.mShop.android.shopping:id/iss_autocomplete_ux_container[text]None[enabled,,]",
+            "view_str": "6f1adfce8b0a5b5d4a762280fc2a0bd0",
+            "bound_box": "0,228,1080,1776",
+            "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.amazon.mShop.android.shopping:id/iss_autocomplete_ux_container"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                24
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    228
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/mash_web_fragment",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 22,
+            "temp_id": 23,
+            "size": "1080*1548",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]com.amazon.mShop.android.shopping:id/mash_web_fragment[text]None[enabled,,]",
+            "view_str": "b4ca767ec6c63c5086071949e2364eaf",
+            "bound_box": "0,228,1080,1776",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.amazon.mShop.android.shopping:id/mash_web_fragment"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                25
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    228
+                ],
+                [
+                    1080,
+                    1497
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.webkit.WebView",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 23,
+            "temp_id": 24,
+            "size": "1080*1269",
+            "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+            "view_str": "0b04af6f2cd06079e2c653f6d4e786bc",
+            "bound_box": "0,228,1080,1497",
+            "content_free_signature": "[class]android.webkit.WebView[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 2,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                26,
+                87
+            ],
+            "focused": true,
+            "bounds": [
+                [
+                    0,
+                    228
+                ],
+                [
+                    1080,
+                    1497
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "Amazon Search Autocomplete",
+            "class": "android.webkit.WebView",
+            "scrollable": true,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 24,
+            "temp_id": 25,
+            "size": "1080*1269",
+            "signature": "[class]android.webkit.WebView[resource_id]None[text]Amazon Search Autocomplete[enabled,,]",
+            "view_str": "b9918293a04db2e465fed0f2bba54ca6",
+            "bound_box": "0,228,1080,1497",
+            "content_free_signature": "[class]android.webkit.WebView[resource_id]None",
+            "allowed_actions": [
+                "scroll up",
+                "scroll down"
+            ],
+            "status": [],
+            "local_id": "4",
+            "desc": "<scrollbar bound_box=0,228,1080,1497>Amazon Search Autocomplete</scrollbar>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                27
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    228
+                ],
+                [
+                    1080,
+                    1497
+                ]
+            ],
+            "resource_id": "a-page",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 25,
+            "temp_id": 26,
+            "size": "1080*1269",
+            "signature": "[class]android.view.View[resource_id]a-page[text][enabled,,]",
+            "view_str": "04e1d35d666e91a67e8b638850e3189b",
+            "bound_box": "0,228,1080,1497",
+            "content_free_signature": "[class]android.view.View[resource_id]a-page"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 10,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                28,
+                34,
+                40,
+                46,
+                52,
+                58,
+                64,
+                70,
+                76,
+                82
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    228
+                ],
+                [
+                    1080,
+                    1497
+                ]
+            ],
+            "resource_id": "attach-to-me",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 26,
+            "temp_id": 27,
+            "size": "1080*1269",
+            "signature": "[class]android.view.View[resource_id]attach-to-me[text][enabled,,]",
+            "view_str": "af639d18c7d3b34aaf6591c86ab04a03",
+            "bound_box": "0,228,1080,1497",
+            "content_free_signature": "[class]android.view.View[resource_id]attach-to-me"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                29,
+                30,
+                31,
+                33
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    228
+                ],
+                [
+                    1080,
+                    336
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 27,
+            "temp_id": 28,
+            "size": "1080*108",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "27b2a56da744b3e3d10f766e21430aea",
+            "bound_box": "0,228,1080,336",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    18,
+                    246
+                ],
+                [
+                    87,
+                    315
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 29,
+            "size": "69*69",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "18,246,87,315",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    105,
+                    228
+                ],
+                [
+                    936,
+                    336
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "4th of july accessories",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 30,
+            "size": "831*108",
+            "signature": "[class]android.widget.Button[resource_id]None[text]4th of july accessories[enabled,,]",
+            "view_str": "5721604cf4db63cc820947779dd14850",
+            "bound_box": "105,228,936,336",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "5",
+            "desc": "<button bound_box=105,228,936,336>4th of july accessories</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                32
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    936,
+                    228
+                ],
+                [
+                    1056,
+                    333
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "append suggestion",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 31,
+            "size": "120*105",
+            "signature": "[class]android.widget.Button[resource_id]None[text]append suggestion[enabled,,]",
+            "view_str": "4d1666f82bd9ea0676b85b150a332c9a",
+            "bound_box": "936,228,1056,333",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "6",
+            "desc": "<button bound_box=936,228,1056,333>append suggestion</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    972,
+                    255
+                ],
+                [
+                    1020,
+                    306
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 31,
+            "temp_id": 32,
+            "size": "48*51",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6ac320705d9b5bbd180e6bbe319fa4f4",
+            "bound_box": "972,255,1020,306",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    9,
+                    333
+                ],
+                [
+                    1071,
+                    336
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 28,
+            "temp_id": 33,
+            "size": "1062*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "9,333,1071,336",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                35,
+                36,
+                37,
+                39
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    336
+                ],
+                [
+                    1080,
+                    444
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 27,
+            "temp_id": 34,
+            "size": "1080*108",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "531c3c859a4258fa9bf2cf17d86d40ef",
+            "bound_box": "0,336,1080,444",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    18,
+                    354
+                ],
+                [
+                    87,
+                    423
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 34,
+            "temp_id": 35,
+            "size": "69*69",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "18,354,87,423",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    105,
+                    333
+                ],
+                [
+                    936,
+                    444
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "jello shot cups with lids",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 34,
+            "temp_id": 36,
+            "size": "831*111",
+            "signature": "[class]android.widget.Button[resource_id]None[text]jello shot cups with lids[enabled,,]",
+            "view_str": "6fe682b3f37a88d47cb3cb4f4d502e13",
+            "bound_box": "105,333,936,444",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "7",
+            "desc": "<button bound_box=105,333,936,444>jello shot cups with lids</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                38
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    936,
+                    336
+                ],
+                [
+                    1056,
+                    441
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "append suggestion",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 34,
+            "temp_id": 37,
+            "size": "120*105",
+            "signature": "[class]android.widget.Button[resource_id]None[text]append suggestion[enabled,,]",
+            "view_str": "4d1666f82bd9ea0676b85b150a332c9a",
+            "bound_box": "936,336,1056,441",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "8",
+            "desc": "<button bound_box=936,336,1056,441>append suggestion</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    972,
+                    363
+                ],
+                [
+                    1020,
+                    414
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 37,
+            "temp_id": 38,
+            "size": "48*51",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6ac320705d9b5bbd180e6bbe319fa4f4",
+            "bound_box": "972,363,1020,414",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    9,
+                    441
+                ],
+                [
+                    1071,
+                    444
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 34,
+            "temp_id": 39,
+            "size": "1062*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "9,441,1071,444",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                41,
+                42,
+                43,
+                45
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    444
+                ],
+                [
+                    1080,
+                    552
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 27,
+            "temp_id": 40,
+            "size": "1080*108",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "b5561bc4e8f789844c2b4ac0eb9bc8ed",
+            "bound_box": "0,444,1080,552",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    18,
+                    462
+                ],
+                [
+                    87,
+                    531
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 40,
+            "temp_id": 41,
+            "size": "69*69",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "18,462,87,531",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    105,
+                    441
+                ],
+                [
+                    936,
+                    552
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "4th of july shirts women",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 40,
+            "temp_id": 42,
+            "size": "831*111",
+            "signature": "[class]android.widget.Button[resource_id]None[text]4th of july shirts women[enabled,,]",
+            "view_str": "885ee2e4e99fc91abcc01155dfcff985",
+            "bound_box": "105,441,936,552",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "9",
+            "desc": "<button bound_box=105,441,936,552>4th of july shirts women</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                44
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    936,
+                    444
+                ],
+                [
+                    1056,
+                    549
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "append suggestion",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 40,
+            "temp_id": 43,
+            "size": "120*105",
+            "signature": "[class]android.widget.Button[resource_id]None[text]append suggestion[enabled,,]",
+            "view_str": "4d1666f82bd9ea0676b85b150a332c9a",
+            "bound_box": "936,444,1056,549",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "10",
+            "desc": "<button bound_box=936,444,1056,549>append suggestion</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    972,
+                    471
+                ],
+                [
+                    1020,
+                    522
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 43,
+            "temp_id": 44,
+            "size": "48*51",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6ac320705d9b5bbd180e6bbe319fa4f4",
+            "bound_box": "972,471,1020,522",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    9,
+                    549
+                ],
+                [
+                    1071,
+                    552
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 40,
+            "temp_id": 45,
+            "size": "1062*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "9,549,1071,552",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                47,
+                48,
+                49,
+                51
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    552
+                ],
+                [
+                    1080,
+                    660
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 27,
+            "temp_id": 46,
+            "size": "1080*108",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "b4b4576d3dd984675e465ed13df276ad",
+            "bound_box": "0,552,1080,660",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    18,
+                    570
+                ],
+                [
+                    87,
+                    639
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 46,
+            "temp_id": 47,
+            "size": "69*69",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "18,570,87,639",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    105,
+                    549
+                ],
+                [
+                    936,
+                    660
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "fourth of july shirts for women",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 46,
+            "temp_id": 48,
+            "size": "831*111",
+            "signature": "[class]android.widget.Button[resource_id]None[text]fourth of july shirts for women[enabled,,]",
+            "view_str": "217a73ae8f2acc88ef930629ded03be9",
+            "bound_box": "105,549,936,660",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "11",
+            "desc": "<button bound_box=105,549,936,660>fourth of july shirts for women</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                50
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    936,
+                    552
+                ],
+                [
+                    1056,
+                    657
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "append suggestion",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 46,
+            "temp_id": 49,
+            "size": "120*105",
+            "signature": "[class]android.widget.Button[resource_id]None[text]append suggestion[enabled,,]",
+            "view_str": "4d1666f82bd9ea0676b85b150a332c9a",
+            "bound_box": "936,552,1056,657",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "12",
+            "desc": "<button bound_box=936,552,1056,657>append suggestion</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    972,
+                    579
+                ],
+                [
+                    1020,
+                    630
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 49,
+            "temp_id": 50,
+            "size": "48*51",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6ac320705d9b5bbd180e6bbe319fa4f4",
+            "bound_box": "972,579,1020,630",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    9,
+                    657
+                ],
+                [
+                    1071,
+                    660
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 46,
+            "temp_id": 51,
+            "size": "1062*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "9,657,1071,660",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                53,
+                54,
+                55,
+                57
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    660
+                ],
+                [
+                    1080,
+                    768
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 27,
+            "temp_id": 52,
+            "size": "1080*108",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "10b938cb15012a94d6d82bb82bc4aea6",
+            "bound_box": "0,660,1080,768",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    18,
+                    678
+                ],
+                [
+                    87,
+                    747
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 52,
+            "temp_id": 53,
+            "size": "69*69",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "18,678,87,747",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    105,
+                    657
+                ],
+                [
+                    936,
+                    768
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "fourth of july decorations",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 52,
+            "temp_id": 54,
+            "size": "831*111",
+            "signature": "[class]android.widget.Button[resource_id]None[text]fourth of july decorations[enabled,,]",
+            "view_str": "f44c159586c7041fb910ef7a9f95a7c4",
+            "bound_box": "105,657,936,768",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "13",
+            "desc": "<button bound_box=105,657,936,768>fourth of july decorations</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                56
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    936,
+                    660
+                ],
+                [
+                    1056,
+                    765
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "append suggestion",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 52,
+            "temp_id": 55,
+            "size": "120*105",
+            "signature": "[class]android.widget.Button[resource_id]None[text]append suggestion[enabled,,]",
+            "view_str": "4d1666f82bd9ea0676b85b150a332c9a",
+            "bound_box": "936,660,1056,765",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "14",
+            "desc": "<button bound_box=936,660,1056,765>append suggestion</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    972,
+                    687
+                ],
+                [
+                    1020,
+                    738
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 55,
+            "temp_id": 56,
+            "size": "48*51",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6ac320705d9b5bbd180e6bbe319fa4f4",
+            "bound_box": "972,687,1020,738",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    9,
+                    765
+                ],
+                [
+                    1071,
+                    768
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 52,
+            "temp_id": 57,
+            "size": "1062*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "9,765,1071,768",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                59,
+                60,
+                61,
+                63
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    768
+                ],
+                [
+                    1080,
+                    876
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 27,
+            "temp_id": 58,
+            "size": "1080*108",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "37cde60e7db29291bd4fa403755749c1",
+            "bound_box": "0,768,1080,876",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    18,
+                    786
+                ],
+                [
+                    87,
+                    855
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 58,
+            "temp_id": 59,
+            "size": "69*69",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "18,786,87,855",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    105,
+                    765
+                ],
+                [
+                    936,
+                    876
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "4th of july shirts for men",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 58,
+            "temp_id": 60,
+            "size": "831*111",
+            "signature": "[class]android.widget.Button[resource_id]None[text]4th of july shirts for men[enabled,,]",
+            "view_str": "657c3eb57ee96a650f52b6da791c5332",
+            "bound_box": "105,765,936,876",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "15",
+            "desc": "<button bound_box=105,765,936,876>4th of july shirts for men</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                62
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    936,
+                    768
+                ],
+                [
+                    1056,
+                    873
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "append suggestion",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 58,
+            "temp_id": 61,
+            "size": "120*105",
+            "signature": "[class]android.widget.Button[resource_id]None[text]append suggestion[enabled,,]",
+            "view_str": "4d1666f82bd9ea0676b85b150a332c9a",
+            "bound_box": "936,768,1056,873",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "16",
+            "desc": "<button bound_box=936,768,1056,873>append suggestion</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    972,
+                    795
+                ],
+                [
+                    1020,
+                    846
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 61,
+            "temp_id": 62,
+            "size": "48*51",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6ac320705d9b5bbd180e6bbe319fa4f4",
+            "bound_box": "972,795,1020,846",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    9,
+                    873
+                ],
+                [
+                    1071,
+                    876
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 58,
+            "temp_id": 63,
+            "size": "1062*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "9,873,1071,876",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                65,
+                66,
+                67,
+                69
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    876
+                ],
+                [
+                    1080,
+                    984
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 27,
+            "temp_id": 64,
+            "size": "1080*108",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "5acf358b85844f6e97f44c1728a68f4c",
+            "bound_box": "0,876,1080,984",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    18,
+                    894
+                ],
+                [
+                    87,
+                    963
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 64,
+            "temp_id": 65,
+            "size": "69*69",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "18,894,87,963",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    105,
+                    873
+                ],
+                [
+                    936,
+                    984
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "4th of july decorations",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 64,
+            "temp_id": 66,
+            "size": "831*111",
+            "signature": "[class]android.widget.Button[resource_id]None[text]4th of july decorations[enabled,,]",
+            "view_str": "9c243b019854fb830f3b6c6de68b69c1",
+            "bound_box": "105,873,936,984",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "17",
+            "desc": "<button bound_box=105,873,936,984>4th of july decorations</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                68
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    936,
+                    876
+                ],
+                [
+                    1056,
+                    981
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "append suggestion",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 64,
+            "temp_id": 67,
+            "size": "120*105",
+            "signature": "[class]android.widget.Button[resource_id]None[text]append suggestion[enabled,,]",
+            "view_str": "4d1666f82bd9ea0676b85b150a332c9a",
+            "bound_box": "936,876,1056,981",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "18",
+            "desc": "<button bound_box=936,876,1056,981>append suggestion</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    972,
+                    903
+                ],
+                [
+                    1020,
+                    954
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 67,
+            "temp_id": 68,
+            "size": "48*51",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6ac320705d9b5bbd180e6bbe319fa4f4",
+            "bound_box": "972,903,1020,954",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    9,
+                    981
+                ],
+                [
+                    1071,
+                    984
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 64,
+            "temp_id": 69,
+            "size": "1062*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "9,981,1071,984",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                71,
+                72,
+                73,
+                75
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    984
+                ],
+                [
+                    1080,
+                    1092
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 27,
+            "temp_id": 70,
+            "size": "1080*108",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "769a9a333fccdf799c021ac4a053117f",
+            "bound_box": "0,984,1080,1092",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    18,
+                    1002
+                ],
+                [
+                    87,
+                    1071
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 70,
+            "temp_id": 71,
+            "size": "69*69",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "18,1002,87,1071",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    105,
+                    981
+                ],
+                [
+                    936,
+                    1092
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "4th of july outfits for women",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 70,
+            "temp_id": 72,
+            "size": "831*111",
+            "signature": "[class]android.widget.Button[resource_id]None[text]4th of july outfits for women[enabled,,]",
+            "view_str": "7923c2e1dbdb998b6f0a5bd9c26f5811",
+            "bound_box": "105,981,936,1092",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "19",
+            "desc": "<button bound_box=105,981,936,1092>4th of july outfits for women</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                74
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    936,
+                    984
+                ],
+                [
+                    1056,
+                    1089
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "append suggestion",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 70,
+            "temp_id": 73,
+            "size": "120*105",
+            "signature": "[class]android.widget.Button[resource_id]None[text]append suggestion[enabled,,]",
+            "view_str": "4d1666f82bd9ea0676b85b150a332c9a",
+            "bound_box": "936,984,1056,1089",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "20",
+            "desc": "<button bound_box=936,984,1056,1089>append suggestion</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    972,
+                    1011
+                ],
+                [
+                    1020,
+                    1062
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 73,
+            "temp_id": 74,
+            "size": "48*51",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6ac320705d9b5bbd180e6bbe319fa4f4",
+            "bound_box": "972,1011,1020,1062",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    9,
+                    1089
+                ],
+                [
+                    1071,
+                    1092
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 70,
+            "temp_id": 75,
+            "size": "1062*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "9,1089,1071,1092",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 4,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                77,
+                78,
+                79,
+                81
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1092
+                ],
+                [
+                    1080,
+                    1200
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 27,
+            "temp_id": 76,
+            "size": "1080*108",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "38164410714e964f75a6df5dfe70fa2a",
+            "bound_box": "0,1092,1080,1200",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    18,
+                    1110
+                ],
+                [
+                    87,
+                    1179
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 76,
+            "temp_id": 77,
+            "size": "69*69",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "18,1110,87,1179",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    105,
+                    1089
+                ],
+                [
+                    936,
+                    1200
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "glow sticks",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 76,
+            "temp_id": 78,
+            "size": "831*111",
+            "signature": "[class]android.widget.Button[resource_id]None[text]glow sticks[enabled,,]",
+            "view_str": "393052d496eebb3b8d2172e2a1c77e8c",
+            "bound_box": "105,1089,936,1200",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "21",
+            "desc": "<button bound_box=105,1089,936,1200>glow sticks</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                80
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    936,
+                    1092
+                ],
+                [
+                    1056,
+                    1197
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "append suggestion",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 76,
+            "temp_id": 79,
+            "size": "120*105",
+            "signature": "[class]android.widget.Button[resource_id]None[text]append suggestion[enabled,,]",
+            "view_str": "4d1666f82bd9ea0676b85b150a332c9a",
+            "bound_box": "936,1092,1056,1197",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "22",
+            "desc": "<button bound_box=936,1092,1056,1197>append suggestion</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    972,
+                    1119
+                ],
+                [
+                    1020,
+                    1170
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 79,
+            "temp_id": 80,
+            "size": "48*51",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6ac320705d9b5bbd180e6bbe319fa4f4",
+            "bound_box": "972,1119,1020,1170",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    9,
+                    1197
+                ],
+                [
+                    1071,
+                    1200
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 76,
+            "temp_id": 81,
+            "size": "1062*3",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "9,1197,1071,1200",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 3,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                83,
+                84,
+                85
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1200
+                ],
+                [
+                    1080,
+                    1305
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 27,
+            "temp_id": 82,
+            "size": "1080*105",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "276b48b71188f9a8ba5bdd2350a9b8c9",
+            "bound_box": "0,1200,1080,1305",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    18,
+                    1218
+                ],
+                [
+                    87,
+                    1287
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 82,
+            "temp_id": 83,
+            "size": "69*69",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "bc9cbf7d5ae68166cc22b09d11ff5467",
+            "bound_box": "18,1218,87,1287",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    105,
+                    1197
+                ],
+                [
+                    936,
+                    1308
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "american flags for outside",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 82,
+            "temp_id": 84,
+            "size": "831*111",
+            "signature": "[class]android.widget.Button[resource_id]None[text]american flags for outside[enabled,,]",
+            "view_str": "14e13346478441e87c2cfe985adc049c",
+            "bound_box": "105,1197,936,1308",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "23",
+            "desc": "<button bound_box=105,1197,936,1308>american flags for outside</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": true,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                86
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    936,
+                    1200
+                ],
+                [
+                    1056,
+                    1305
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "append suggestion",
+            "class": "android.widget.Button",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 82,
+            "temp_id": 85,
+            "size": "120*105",
+            "signature": "[class]android.widget.Button[resource_id]None[text]append suggestion[enabled,,]",
+            "view_str": "4d1666f82bd9ea0676b85b150a332c9a",
+            "bound_box": "936,1200,1056,1305",
+            "content_free_signature": "[class]android.widget.Button[resource_id]None",
+            "allowed_actions": [
+                "touch"
+            ],
+            "status": [],
+            "local_id": "24",
+            "desc": "<button bound_box=936,1200,1056,1305>append suggestion</button>"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    972,
+                    1227
+                ],
+                [
+                    1020,
+                    1278
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 85,
+            "temp_id": 86,
+            "size": "48*51",
+            "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+            "view_str": "6ac320705d9b5bbd180e6bbe319fa4f4",
+            "bound_box": "972,1227,1020,1278",
+            "content_free_signature": "[class]android.view.View[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1494
+                ],
+                [
+                    1080,
+                    1497
+                ]
+            ],
+            "resource_id": "a-popover-root",
+            "checked": false,
+            "text": "",
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 25,
+            "temp_id": 87,
+            "size": "1080*3",
+            "signature": "[class]android.view.View[resource_id]a-popover-root[text][enabled,,]",
+            "view_str": "f75484072957a71c26d1ed80f2bfe837",
+            "bound_box": "0,1494,1080,1497",
+            "content_free_signature": "[class]android.view.View[resource_id]a-popover-root"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 1,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [
+                89
+            ],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1632
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/bottom_overlay_bar_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 88,
+            "size": "1080*144",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/bottom_overlay_bar_container[text]None[enabled,,]",
+            "view_str": "eb5181a6c77df87744e434c76fa4df5f",
+            "bound_box": "0,1632,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/bottom_overlay_bar_container"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": true,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": true,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1632
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": null,
+            "checked": false,
+            "text": null,
+            "class": "android.widget.RelativeLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 88,
+            "temp_id": 89,
+            "size": "1080*144",
+            "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+            "view_str": "596be4c4106ebd4fcf6502358592151f",
+            "bound_box": "0,1632,1080,1776",
+            "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/bottom_fixed_bar_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 90,
+            "size": "1080*0",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/bottom_fixed_bar_container[text]None[enabled,,]",
+            "view_str": "055f735aefa3cb68dfbc3056092aaf9c",
+            "bound_box": "0,1776,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/bottom_fixed_bar_container"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1776
+                ]
+            ],
+            "resource_id": "com.amazon.mShop.android.shopping:id/bottom_fixed_secondary_container",
+            "checked": false,
+            "text": null,
+            "class": "android.widget.LinearLayout",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 3,
+            "temp_id": 91,
+            "size": "1080*0",
+            "signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/bottom_fixed_secondary_container[text]None[enabled,,]",
+            "view_str": "44ee5c57eb9fcbc96f412bf07d85de16",
+            "bound_box": "0,1776,1080,1776",
+            "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.amazon.mShop.android.shopping:id/bottom_fixed_secondary_container"
+        },
+        {
+            "package": "com.amazon.mShop.android.shopping",
+            "visible": false,
+            "checkable": false,
+            "child_count": 0,
+            "editable": false,
+            "clickable": false,
+            "is_password": false,
+            "focusable": false,
+            "enabled": true,
+            "content_description": null,
+            "children": [],
+            "focused": false,
+            "bounds": [
+                [
+                    0,
+                    1776
+                ],
+                [
+                    1080,
+                    1920
+                ]
+            ],
+            "resource_id": "android:id/navigationBarBackground",
+            "checked": false,
+            "text": null,
+            "class": "android.view.View",
+            "scrollable": false,
+            "selected": false,
+            "long_clickable": false,
+            "parent": 0,
+            "temp_id": 92,
+            "size": "1080*144",
+            "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+            "view_str": "5ce714a00cc7de5b97e4eda1085537cd",
+            "bound_box": "0,1776,1080,1920",
+            "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+        }
+    ]
+}
